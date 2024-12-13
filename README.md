@@ -9,6 +9,31 @@ The purpose of this study is to investigate how environmental factors, temperatu
  high WBGT conditions compared to younger individuals, and similar trends will be observed
  in both men and women.
 
+ ### Background
+The purpose of this study is to investigate how environmental factors, temperature, humidity,
+ solar radiation, and wind, impact marathon performance across the lifespan in both men and
+ women, with the hypothesis that older individuals will experience more pronounced slowing in
+ high WBGT conditions compared to younger individuals, and similar trends will be observed
+ in both men and women.
+
+ ### AIM 1:
+ Examine effects of increasing age on marathon performance in men and women
+ ![image](https://github.com/user-attachments/assets/536788f6-d8b8-451c-b577-ec6c672de613)
+
+ ### AIM 2:
+ Explore the impact of environmental conditions on marathon performance, and whether
+ the impact differs across age and gender
+
+ ![image](https://github.com/user-attachments/assets/60a782fa-e8b7-402e-ad7c-b74b5d78573c)
+
+### AIM3:
+ Identify the weather parameters (WBGT, Flag conditions, temperature, etc) that have
+ the largest impact on marathon performance.
+ ![image](https://github.com/user-attachments/assets/afa93c46-8e4e-4cfe-a218-daf450f30e7f)
+
+
+
+
 ### Results
  This study examines how environmental factors, including temperature, humidity, solar radia
 tion, wind, and WBGT,air quality impact marathon performance across ages and genders. We
