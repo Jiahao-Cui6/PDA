@@ -68,6 +68,14 @@ The following packages were used in this analysis:
 ### Background
 The goal of this project is to use data from a randomized trial to examine baseline variables as potential moderators of the effects of behavioral treatment on end-of-treatment (EOT) abstinence. Additionally, we will evaluate baseline variables as predictors of abstinence, controlling for both behavioral treatment and pharmacotherapy.
 
+### Logistic model
+
+![image](https://github.com/user-attachments/assets/38a1ebe1-a211-4cd9-867b-1b79ebaafa50)
+
+![image](https://github.com/user-attachments/assets/8e971302-349b-4ef6-a145-6468ece6e997)
+
+
+
 ### Results
 This study underscores the complexity of treatment effects in smoking cessation interventions and the importance of considering baseline variables as moderators. By analyzing four distinct treatment configurations and applying multiple variable selection methods, we identified key predictors of EOT abstinence for each group. The use of interaction terms in logistic regression models further revealed significant moderating effects, with variables like FTCD score and Pleasurable Events Scale score. These findings highlight the need for personalized treatment approaches that account for individual baseline characteristics, particularly in populations with co-occurring conditions such as major depressive disorder.
 
